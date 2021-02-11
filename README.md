@@ -1,4 +1,9 @@
 # sharing-Int-test
+Files you must open:
+---UFO_script_Luis_Soledad.ipynb
+
+---Diamonds_Luis_Soledad.ipynb
+
 This is a private repository to save files from Intelimétrica tests. 
 To open both tests you must have and environment that can run the next libraries:
 import pandas as pd
